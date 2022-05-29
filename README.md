@@ -4,7 +4,7 @@ Eu me chamo Ariel (ele/dele), mas você pode me chamar de Xacx, e este é o meu 
 
 ### Sobre mim:
 
-Sou estudante do ensino médio e desenvolvedor de pesquisa na área de criptografia, por isso não apareço aqui frequentemente (meus repositórios são privados). Comecei a estudar desenvolvimento web em novembro de 2021 e me senti deveras atraído pelo setor. Além de codificar, gosto de ler, assistir animes e escutar Twenty One Pilots 🎧.
+Sou estudante do ensino médio e desenvolvedor de pesquisa na área de criptografia, por isso não apareço aqui frequentemente (e meus repositórios são privados). Comecei a estudar desenvolvimento web em novembro de 2021 e me senti deveras atraído pelo setor. Além de codificar, gosto de ler, assistir animes e escutar Twenty One Pilots 🎧.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
