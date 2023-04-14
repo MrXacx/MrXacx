@@ -2,16 +2,13 @@
 
 Eu me chamo Ariel (ele/dele), mas você pode me chamar de Xacx, e este é o meu perfil!
 
+
 <section align="center">
-  <a href="https://www.linkedin.com/in/arielos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/ariel.php/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="malito:misterxacx@gmail.com/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielos/)
+  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariel.php/)
+  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:misterxacx@gmail.com/)
+
 </section>
 <hr/>
 
@@ -21,8 +18,13 @@ Sou estudante do ensino técnico de **Desenvolvimento de Sistemas** pela institu
 
 <section align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrXacx&count_private=true&theme=github_dark&show_icons=true&card_width=500px" alt="stats"/>
+  
+  [![wakatime](https://wakatime.com/badge/user/8181462c-33ca-417c-b417-e23269b1d1b1.svg)](https://wakatime.com/@8181462c-33ca-417c-b417-e23269b1d1b1)
+  ![](https://www.codewars.com/users/MrXacx/badges/micro)
+
 </section>
 <hr/>
+
 
 ### Tecnologias:
 
