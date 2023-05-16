@@ -15,7 +15,7 @@ Eu me chamo Ariel (ele/dele), mas você pode me chamar de Xacx, e este é o meu 
 ### Sobre mim:
 
 Sou estudante do ensino técnico de **Desenvolvimento de Sistemas** pela instituição **Senai CIMATEC**. Isto posto, busco aprender cada vez mais sobre programação web, principalmente no que se refere ao back-end. No entanto, mantenho minha curiosidade sobre as demais áreas da codificação.
-
+  
 <section align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrXacx&count_private=true&theme=github_dark&show_icons=true&card_width=500px" alt="stats"/>
   
@@ -28,8 +28,8 @@ Sou estudante do ensino técnico de **Desenvolvimento de Sistemas** pela institu
 
 ### Tecnologias:
 
-Estudo construção de páginas com HTML5, estilização com CSS e a integração via protocolo HTTP com PHP. Além disso, comecei a codificar também em Java, o que tem me agradado. Sendo assim, tenho prática na aplicação do paradigma de Orientação a Objetos.
+Estudo o desenvolvimento de aplicações web com HTML5, CSS e JavaScript associado ao PHP. Além disso, codifico também em Java na plataforma Standard Edition. Portanto, tenho prática na implementação do paradigma de Progrmação Orientada a Objetos.
 
 <section align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrXacx&count_private=true&theme=github_dark&layout=compact&langs_count=6&card_width=500px" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrXacx&count_private=true&theme=github_dark&layout=compact&langs_count=9&card_width=500px" alt="top languages"/>
 </section>
