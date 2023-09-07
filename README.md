@@ -2,28 +2,21 @@
 
 Eu me chamo Ariel (ele/dele), mas você pode me chamar de Xacx, e este é o meu perfil!
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=8566ff&color=0C0B12)](https://www.linkedin.com/in/arielos/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=8566ff&color=0C0B12)](https://www.instagram.com/ariel.php/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=8566ff&color=0C0B12)](malito:misterxacx@gmail.com/)
 
-<section align="center">
-  
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielos/)
-  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariel.php/)
-  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:misterxacx@gmail.com/)
-
-</section>
 <hr/>
 
 ### Sobre mim:
 
 Sou estudante do ensino técnico de **Desenvolvimento de Sistemas** pela instituição **Senai CIMATEC**. Isto posto, busco aprender cada vez mais sobre programação web, principalmente no que se refere ao back-end. No entanto, mantenho minha curiosidade sobre as demais áreas da codificação.
-
-<section align="center">
   
-  <img src="https://github-readme-stats-lotssc6xt-mrxacx.vercel.app/api?username=MrXacx&count_private=true&theme=github_dark&show_icons=true&card_width=500px" alt="stats"/>
-  
-  [![wakatime](https://wakatime.com/badge/user/8181462c-33ca-417c-b417-e23269b1d1b1.svg)](https://wakatime.com/@8181462c-33ca-417c-b417-e23269b1d1b1)
-  ![](https://www.codewars.com/users/MrXacx/badges/micro)
+![stats](https://github-readme-stats-lotssc6xt-mrxacx.vercel.app/api?username=MrXacx&count_private=true&theme=transparent&show_icons=true&card_width=500px&border_color=8566ff&title_color=8566ff&icon_color=8566ff&text_color=e4e2e2&rank_icon=github&text_bold=false&hide=stars)
 
-</section>
+![wakatime](https://wakatime.com/badge/user/8181462c-33ca-417c-b417-e23269b1d1b1.svg)
+![codewars](https://www.codewars.com/users/MrXacx/badges/micro)
+
 <hr/>
 
 
@@ -31,6 +24,5 @@ Sou estudante do ensino técnico de **Desenvolvimento de Sistemas** pela institu
 
 Estudo o desenvolvimento de aplicações web com HTML5, CSS e JavaScript associado ao PHP. Além disso, codifico também em Java na plataforma Standard Edition. Portanto, tenho prática na implementação do paradigma de Progrmação Orientada a Objetos.
 
-<section align="center">
-  <img src="https://github-readme-stats-lotssc6xt-mrxacx.vercel.app//api/top-langs/?username=MrXacx&count_private=true&theme=github_dark&layout=compact&langs_count=9&card_width=500px" alt="top languages"/>
-</section>
+![Most used languages](https://github-readme-stats-lotssc6xt-mrxacx.vercel.app//api/top-langs/?username=MrXacx&count_private=true&theme=transparent&layout=compact&langs_count=6&hide=c%2B%2B,cmake,swift,kotlin,objective-c&card_width=500px&border_color=8566ff&title_color=8566ff&icon_color=8566ff&text_color=e4e2e2)
+
