@@ -22,7 +22,7 @@ Sou estudante do ensino técnico de **Desenvolvimento de Sistemas** pela institu
 
 ### Tecnologias:
 
-Estudo o desenvolvimento de aplicações web com HTML5, CSS e JavaScript associado ao PHP. Além disso, codifico também em Java na plataforma Standard Edition. Portanto, tenho prática na implementação do paradigma de Progrmação Orientada a Objetos.
+Estudo o desenvolvimento de aplicações web com HTML5, CSS e JavaScript associado ao PHP. Além disso, codifico também em Java na plataforma Standard Edition. Portanto, tenho prática na implementação do paradigma de Programação Orientada a Objetos.
 
 ![Most used languages](https://github-readme-stats-lotssc6xt-mrxacx.vercel.app//api/top-langs/?username=MrXacx&count_private=true&theme=transparent&layout=compact&langs_count=6&hide=c%2B%2B,cmake,swift,kotlin,objective-c&card_width=500px&border_color=8566ff&title_color=8566ff&icon_color=8566ff&text_color=e4e2e2)
 
