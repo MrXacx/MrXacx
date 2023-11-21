@@ -11,8 +11,8 @@ Eu me chamo Ariel (ele/dele), mas você pode me chamar de Xacx, e este é o meu 
 ### Sobre mim:
 
 Sou estudante do ensino técnico de **Desenvolvimento de Sistemas** pela instituição **Senai CIMATEC**. Isto posto, busco aprender cada vez mais sobre programação web, principalmente no que se refere ao back-end. No entanto, mantenho minha curiosidade sobre as demais áreas da codificação.
-  
-![stats](https://github-readme-stats-lotssc6xt-mrxacx.vercel.app/api?username=MrXacx&count_private=true&theme=transparent&show_icons=true&card_width=500px&border_color=8566ff&title_color=8566ff&icon_color=8566ff&text_color=e4e2e2&rank_icon=github&text_bold=false&hide=stars)
+
+![stats](https://github-readme-stats-f4nzmrgjf-mrxacx.vercel.app/api?username=MrXacx&count_private=true&theme=transparent&show_icons=true&card_width=500px&border_color=8566ff&title_color=8566ff&icon_color=8566ff&text_color=e4e2e2&rank_icon=github&text_bold=false&hide=stars)
 
 ![wakatime](https://wakatime.com/badge/user/8181462c-33ca-417c-b417-e23269b1d1b1.svg)
 ![codewars](https://www.codewars.com/users/MrXacx/badges/micro)
@@ -24,5 +24,5 @@ Sou estudante do ensino técnico de **Desenvolvimento de Sistemas** pela institu
 
 Estudo o desenvolvimento de aplicações web com HTML5, CSS e JavaScript associado ao PHP. Além disso, codifico também em Java na plataforma Standard Edition. Portanto, tenho prática na implementação do paradigma de Programação Orientada a Objetos.
 
-![Most used languages](https://github-readme-stats-lotssc6xt-mrxacx.vercel.app//api/top-langs/?username=MrXacx&count_private=true&theme=transparent&layout=compact&langs_count=6&hide=c%2B%2B,cmake,swift,kotlin,objective-c&card_width=500px&border_color=8566ff&title_color=8566ff&icon_color=8566ff&text_color=e4e2e2)
+![Most used languages](https://github-readme-stats-f4nzmrgjf-mrxacx.vercel.app//api/top-langs/?username=MrXacx&count_private=true&theme=transparent&layout=compact&langs_count=6&hide=c%2B%2B,cmake,swift,kotlin,objective-c&card_width=500px&border_color=8566ff&title_color=8566ff&icon_color=8566ff&text_color=e4e2e2)
 
